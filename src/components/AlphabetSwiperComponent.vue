@@ -99,6 +99,8 @@ th,
 td {
   border: 1px solid #ccc;
   padding: 8px;
+  /* max-width: 40px;
+  max-height: 40px; */
 }
 
 th {
@@ -106,8 +108,8 @@ th {
 }
 
 .letter-image {
-  width: 60px;
-  height: auto;
+  max-width: 40px;
+  max-height: 40px;
   cursor: pointer;
   transition: transform 0.2s;
 }
