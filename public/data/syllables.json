@@ -1,0 +1,424 @@
+[
+  {
+    "cv": "ba",
+    "sound": "/sounds/syllables/ba.mp3"
+  },
+  {
+    "cv": "be",
+    "sound": "/sounds/syllables/be.mp3"
+  },
+  {
+    "cv": "bi",
+    "sound": "/sounds/syllables/bi.mp3"
+  },
+  {
+    "cv": "bo",
+    "sound": "/sounds/syllables/bo.mp3"
+  },
+  {
+    "cv": "bu",
+    "sound": "/sounds/syllables/bu.mp3"
+  },
+  {
+    "cv": "ca",
+    "sound": "/sounds/syllables/ca.mp3"
+  },
+  {
+    "cv": "ce",
+    "sound": "/sounds/syllables/ce.mp3"
+  },
+  {
+    "cv": "ci",
+    "sound": "/sounds/syllables/ci.mp3"
+  },
+  {
+    "cv": "co",
+    "sound": "/sounds/syllables/co.mp3"
+  },
+  {
+    "cv": "cu",
+    "sound": "/sounds/syllables/cu.mp3"
+  },
+  {
+    "cv": "da",
+    "sound": "/sounds/syllables/da.mp3"
+  },
+  {
+    "cv": "de",
+    "sound": "/sounds/syllables/de.mp3"
+  },
+  {
+    "cv": "di",
+    "sound": "/sounds/syllables/di.mp3"
+  },
+  {
+    "cv": "do",
+    "sound": "/sounds/syllables/do.mp3"
+  },
+  {
+    "cv": "du",
+    "sound": "/sounds/syllables/du.mp3"
+  },
+  {
+    "cv": "fa",
+    "sound": "/sounds/syllables/fa.mp3"
+  },
+  {
+    "cv": "fe",
+    "sound": "/sounds/syllables/fe.mp3"
+  },
+  {
+    "cv": "fi",
+    "sound": "/sounds/syllables/fi.mp3"
+  },
+  {
+    "cv": "fo",
+    "sound": "/sounds/syllables/fo.mp3"
+  },
+  {
+    "cv": "fu",
+    "sound": "/sounds/syllables/fu.mp3"
+  },
+  {
+    "cv": "ga",
+    "sound": "/sounds/syllables/ga.mp3"
+  },
+  {
+    "cv": "ge",
+    "sound": "/sounds/syllables/ge.mp3"
+  },
+  {
+    "cv": "gi",
+    "sound": "/sounds/syllables/gi.mp3"
+  },
+  {
+    "cv": "go",
+    "sound": "/sounds/syllables/go.mp3"
+  },
+  {
+    "cv": "gu",
+    "sound": "/sounds/syllables/gu.mp3"
+  },
+  {
+    "cv": "ha",
+    "sound": "/sounds/syllables/ha.mp3"
+  },
+  {
+    "cv": "he",
+    "sound": "/sounds/syllables/he.mp3"
+  },
+  {
+    "cv": "hi",
+    "sound": "/sounds/syllables/hi.mp3"
+  },
+  {
+    "cv": "ho",
+    "sound": "/sounds/syllables/ho.mp3"
+  },
+  {
+    "cv": "hu",
+    "sound": "/sounds/syllables/hu.mp3"
+  },
+  {
+    "cv": "ja",
+    "sound": "/sounds/syllables/ja.mp3"
+  },
+  {
+    "cv": "je",
+    "sound": "/sounds/syllables/je.mp3"
+  },
+  {
+    "cv": "ji",
+    "sound": "/sounds/syllables/ji.mp3"
+  },
+  {
+    "cv": "jo",
+    "sound": "/sounds/syllables/jo.mp3"
+  },
+  {
+    "cv": "ju",
+    "sound": "/sounds/syllables/ju.mp3"
+  },
+  {
+    "cv": "ka",
+    "sound": "/sounds/syllables/ka.mp3"
+  },
+  {
+    "cv": "ke",
+    "sound": "/sounds/syllables/ke.mp3"
+  },
+  {
+    "cv": "ki",
+    "sound": "/sounds/syllables/ki.mp3"
+  },
+  {
+    "cv": "ko",
+    "sound": "/sounds/syllables/ko.mp3"
+  },
+  {
+    "cv": "ku",
+    "sound": "/sounds/syllables/ku.mp3"
+  },
+  {
+    "cv": "la",
+    "sound": "/sounds/syllables/la.mp3"
+  },
+  {
+    "cv": "le",
+    "sound": "/sounds/syllables/le.mp3"
+  },
+  {
+    "cv": "li",
+    "sound": "/sounds/syllables/li.mp3"
+  },
+  {
+    "cv": "lo",
+    "sound": "/sounds/syllables/lo.mp3"
+  },
+  {
+    "cv": "lu",
+    "sound": "/sounds/syllables/lu.mp3"
+  },
+  {
+    "cv": "ma",
+    "sound": "/sounds/syllables/ma.mp3"
+  },
+  {
+    "cv": "me",
+    "sound": "/sounds/syllables/me.mp3"
+  },
+  {
+    "cv": "mi",
+    "sound": "/sounds/syllables/mi.mp3"
+  },
+  {
+    "cv": "mo",
+    "sound": "/sounds/syllables/mo.mp3"
+  },
+  {
+    "cv": "mu",
+    "sound": "/sounds/syllables/mu.mp3"
+  },
+  {
+    "cv": "na",
+    "sound": "/sounds/syllables/na.mp3"
+  },
+  {
+    "cv": "ne",
+    "sound": "/sounds/syllables/ne.mp3"
+  },
+  {
+    "cv": "ni",
+    "sound": "/sounds/syllables/ni.mp3"
+  },
+  {
+    "cv": "no",
+    "sound": "/sounds/syllables/no.mp3"
+  },
+  {
+    "cv": "nu",
+    "sound": "/sounds/syllables/nu.mp3"
+  },
+  {
+    "cv": "pa",
+    "sound": "/sounds/syllables/pa.mp3"
+  },
+  {
+    "cv": "pe",
+    "sound": "/sounds/syllables/pe.mp3"
+  },
+  {
+    "cv": "pi",
+    "sound": "/sounds/syllables/pi.mp3"
+  },
+  {
+    "cv": "po",
+    "sound": "/sounds/syllables/po.mp3"
+  },
+  {
+    "cv": "pu",
+    "sound": "/sounds/syllables/pu.mp3"
+  },
+  {
+    "cv": "qa",
+    "sound": "/sounds/syllables/qa.mp3"
+  },
+  {
+    "cv": "qe",
+    "sound": null,
+    "note": "Not phonetically valid in most Latin-derived phonologies"
+  },
+  {
+    "cv": "qi",
+    "sound": null,
+    "note": "Not phonetically valid in most Latin-derived phonologies"
+  },
+  {
+    "cv": "qo",
+    "sound": "/sounds/syllables/qo.mp3"
+  },
+  {
+    "cv": "qu",
+    "sound": "/sounds/syllables/qu.mp3"
+  },
+  {
+    "cv": "ra",
+    "sound": "/sounds/syllables/ra.mp3"
+  },
+  {
+    "cv": "re",
+    "sound": "/sounds/syllables/re.mp3"
+  },
+  {
+    "cv": "ri",
+    "sound": "/sounds/syllables/ri.mp3"
+  },
+  {
+    "cv": "ro",
+    "sound": "/sounds/syllables/ro.mp3"
+  },
+  {
+    "cv": "ru",
+    "sound": "/sounds/syllables/ru.mp3"
+  },
+  {
+    "cv": "sa",
+    "sound": "/sounds/syllables/sa.mp3"
+  },
+  {
+    "cv": "se",
+    "sound": "/sounds/syllables/se.mp3"
+  },
+  {
+    "cv": "si",
+    "sound": "/sounds/syllables/si.mp3"
+  },
+  {
+    "cv": "so",
+    "sound": "/sounds/syllables/so.mp3"
+  },
+  {
+    "cv": "su",
+    "sound": "/sounds/syllables/su.mp3"
+  },
+  {
+    "cv": "ta",
+    "sound": "/sounds/syllables/ta.mp3"
+  },
+  {
+    "cv": "te",
+    "sound": "/sounds/syllables/te.mp3"
+  },
+  {
+    "cv": "ti",
+    "sound": "/sounds/syllables/ti.mp3"
+  },
+  {
+    "cv": "to",
+    "sound": "/sounds/syllables/to.mp3"
+  },
+  {
+    "cv": "tu",
+    "sound": "/sounds/syllables/tu.mp3"
+  },
+  {
+    "cv": "va",
+    "sound": "/sounds/syllables/va.mp3"
+  },
+  {
+    "cv": "ve",
+    "sound": "/sounds/syllables/ve.mp3"
+  },
+  {
+    "cv": "vi",
+    "sound": "/sounds/syllables/vi.mp3"
+  },
+  {
+    "cv": "vo",
+    "sound": "/sounds/syllables/vo.mp3"
+  },
+  {
+    "cv": "vu",
+    "sound": "/sounds/syllables/vu.mp3"
+  },
+  {
+    "cv": "wa",
+    "sound": "/sounds/syllables/wa.mp3"
+  },
+  {
+    "cv": "we",
+    "sound": "/sounds/syllables/we.mp3"
+  },
+  {
+    "cv": "wi",
+    "sound": "/sounds/syllables/wi.mp3"
+  },
+  {
+    "cv": "wo",
+    "sound": "/sounds/syllables/wo.mp3"
+  },
+  {
+    "cv": "wu",
+    "sound": "/sounds/syllables/wu.mp3"
+  },
+  {
+    "cv": "xa",
+    "sound": "/sounds/syllables/xa.mp3"
+  },
+  {
+    "cv": "xe",
+    "sound": "/sounds/syllables/xe.mp3"
+  },
+  {
+    "cv": "xi",
+    "sound": "/sounds/syllables/xi.mp3"
+  },
+  {
+    "cv": "xo",
+    "sound": "/sounds/syllables/xo.mp3"
+  },
+  {
+    "cv": "xu",
+    "sound": "/sounds/syllables/xu.mp3"
+  },
+  {
+    "cv": "ya",
+    "sound": "/sounds/syllables/ya.mp3"
+  },
+  {
+    "cv": "ye",
+    "sound": "/sounds/syllables/ye.mp3"
+  },
+  {
+    "cv": "yi",
+    "sound": "/sounds/syllables/yi.mp3"
+  },
+  {
+    "cv": "yo",
+    "sound": "/sounds/syllables/yo.mp3"
+  },
+  {
+    "cv": "yu",
+    "sound": "/sounds/syllables/yu.mp3"
+  },
+  {
+    "cv": "za",
+    "sound": "/sounds/syllables/za.mp3"
+  },
+  {
+    "cv": "ze",
+    "sound": "/sounds/syllables/ze.mp3"
+  },
+  {
+    "cv": "zi",
+    "sound": "/sounds/syllables/zi.mp3"
+  },
+  {
+    "cv": "zo",
+    "sound": "/sounds/syllables/zo.mp3"
+  },
+  {
+    "cv": "zu",
+    "sound": "/sounds/syllables/zu.mp3"
+  }
+]

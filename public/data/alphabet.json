@@ -1,0 +1,392 @@
+[
+  {
+    "id": 1,
+    "label": "A",
+    "sound": "/sounds/a.mp3",
+    "images": {
+      "cursive": {
+        "uppercase": "/images/cursive/majuscule/A.svg",
+        "lowercase": "/images/cursive/minuscule/a.svg"
+      },
+      "imprimerie": {
+        "uppercase": "/images/imprimerie/majuscule/A.svg",
+        "lowercase": "/images/imprimerie/minuscule/a.svg"
+      }
+    }
+  },
+  {
+    "id": 2,
+    "label": "B",
+    "sound": "/sounds/b.mp3",
+    "images": {
+      "cursive": {
+        "uppercase": "/images/cursive/majuscule/B.svg",
+        "lowercase": "/images/cursive/minuscule/b.svg"
+      },
+      "imprimerie": {
+        "uppercase": "/images/imprimerie/majuscule/B.svg",
+        "lowercase": "/images/imprimerie/minuscule/b.svg"
+      }
+    }
+  },
+  {
+    "id": 3,
+    "label": "C",
+    "sound": "/sounds/c.mp3",
+    "images": {
+      "cursive": {
+        "uppercase": "/images/cursive/majuscule/C.svg",
+        "lowercase": "/images/cursive/minuscule/c.svg"
+      },
+      "imprimerie": {
+        "uppercase": "/images/imprimerie/majuscule/C.svg",
+        "lowercase": "/images/imprimerie/minuscule/c.svg"
+      }
+    }
+  },
+  {
+    "id": 4,
+    "label": "D",
+    "sound": "/sounds/d.mp3",
+    "images": {
+      "cursive": {
+        "uppercase": "/images/cursive/majuscule/D.svg",
+        "lowercase": "/images/cursive/minuscule/d.svg"
+      },
+      "imprimerie": {
+        "uppercase": "/images/imprimerie/majuscule/D.svg",
+        "lowercase": "/images/imprimerie/minuscule/d.svg"
+      }
+    }
+  },
+  {
+    "id": 5,
+    "label": "E",
+    "sound": "/sounds/e.mp3",
+    "images": {
+      "cursive": {
+        "uppercase": "/images/cursive/majuscule/E.svg",
+        "lowercase": "/images/cursive/minuscule/e.svg"
+      },
+      "imprimerie": {
+        "uppercase": "/images/imprimerie/majuscule/E.svg",
+        "lowercase": "/images/imprimerie/minuscule/e.svg"
+      }
+    }
+  },
+  {
+    "id": 6,
+    "label": "F",
+    "sound": "/sounds/f.mp3",
+    "images": {
+      "cursive": {
+        "uppercase": "/images/cursive/majuscule/F.svg",
+        "lowercase": "/images/cursive/minuscule/f.svg"
+      },
+      "imprimerie": {
+        "uppercase": "/images/imprimerie/majuscule/F.svg",
+        "lowercase": "/images/imprimerie/minuscule/f.svg"
+      }
+    }
+  },
+   {
+    "id": 7,
+    "label": "G",
+    "sound": "/sounds/g.mp3",
+    "images": {
+      "cursive": {
+        "uppercase": "/images/cursive/majuscule/G.svg",
+        "lowercase": "/images/cursive/minuscule/g.svg"
+      },
+      "imprimerie": {
+        "uppercase": "/images/imprimerie/majuscule/G.svg",
+        "lowercase": "/images/imprimerie/minuscule/g.svg"
+      }
+    }
+  },
+  {
+    "id": 8,
+    "label": "H",
+    "sound": "/sounds/h.mp3",
+    "images": {
+      "cursive": {
+        "uppercase": "/images/cursive/majuscule/H.svg",
+        "lowercase": "/images/cursive/minuscule/h.svg"
+      },
+      "imprimerie": {
+        "uppercase": "/images/imprimerie/majuscule/H.svg",
+        "lowercase": "/images/imprimerie/minuscule/h.svg"
+      }
+    }
+  },
+  {
+    "id": 9,
+    "label": "I",
+    "sound": "/sounds/i.mp3",
+    "images": {
+      "cursive": {
+        "uppercase": "/images/cursive/majuscule/I.svg",
+        "lowercase": "/images/cursive/minuscule/i.svg"
+      },
+      "imprimerie": {
+        "uppercase": "/images/imprimerie/majuscule/I.svg",
+        "lowercase": "/images/imprimerie/minuscule/i.svg"
+      }
+    }
+  },
+  {
+    "id": 10,
+    "label": "J",
+    "sound": "/sounds/j.mp3",
+    "images": {
+      "cursive": {
+        "uppercase": "/images/cursive/majuscule/J.svg",
+        "lowercase": "/images/cursive/minuscule/j.svg"
+      },
+      "imprimerie": {
+        "uppercase": "/images/imprimerie/majuscule/J.svg",
+        "lowercase": "/images/imprimerie/minuscule/j.svg"
+      }
+    }
+  },
+  {
+    "id": 11,
+    "label": "K",
+    "sound": "/sounds/k.mp3",
+    "images": {
+      "cursive": {
+        "uppercase": "/images/cursive/majuscule/K.svg",
+        "lowercase": "/images/cursive/minuscule/k.svg"
+      },
+      "imprimerie": {
+        "uppercase": "/images/imprimerie/majuscule/K.svg",
+        "lowercase": "/images/imprimerie/minuscule/k.svg"
+      }
+    }
+  },
+   {
+    "id": 12,
+    "label": "L",
+    "sound": "/sounds/l.mp3",
+    "images": {
+      "cursive": {
+        "uppercase": "/images/cursive/majuscule/L.svg",
+        "lowercase": "/images/cursive/minuscule/l.svg"
+      },
+      "imprimerie": {
+        "uppercase": "/images/imprimerie/majuscule/L.svg",
+        "lowercase": "/images/imprimerie/minuscule/l.svg"
+      }
+    }
+  },
+  {
+    "id": 13,
+    "label": "M",
+    "sound": "/sounds/m.mp3",
+    "images": {
+      "cursive": {
+        "uppercase": "/images/cursive/majuscule/M.svg",
+        "lowercase": "/images/cursive/minuscule/m.svg"
+      },
+      "imprimerie": {
+        "uppercase": "/images/imprimerie/majuscule/M.svg",
+        "lowercase": "/images/imprimerie/minuscule/m.svg"
+      }
+    }
+  },
+  {
+    "id": 14,
+    "label": "N",
+    "sound": "/sounds/n.mp3",
+    "images": {
+      "cursive": {
+        "uppercase": "/images/cursive/majuscule/N.svg",
+        "lowercase": "/images/cursive/minuscule/n.svg"
+      },
+      "imprimerie": {
+        "uppercase": "/images/imprimerie/majuscule/N.svg",
+        "lowercase": "/images/imprimerie/minuscule/n.svg"
+      }
+    }
+  },
+   {
+    "id": 15,
+    "label": "O",
+    "sound": "/sounds/o.mp3",
+    "images": {
+      "cursive": {
+        "uppercase": "/images/cursive/majuscule/O.svg",
+        "lowercase": "/images/cursive/minuscule/o.svg"
+      },
+      "imprimerie": {
+        "uppercase": "/images/imprimerie/majuscule/O.svg",
+        "lowercase": "/images/imprimerie/minuscule/o.svg"
+      }
+    }
+  },
+  {
+    "id": 16,
+    "label": "P",
+    "sound": "/sounds/p.mp3",
+    "images": {
+      "cursive": {
+        "uppercase": "/images/cursive/majuscule/P.svg",
+        "lowercase": "/images/cursive/minuscule/p.svg"
+      },
+      "imprimerie": {
+        "uppercase": "/images/imprimerie/majuscule/P.svg",
+        "lowercase": "/images/imprimerie/minuscule/p.svg"
+      }
+    }
+  },
+  {
+    "id": 17,
+    "label": "Q",
+    "sound": "/sounds/q.mp3",
+    "images": {
+      "cursive": {
+        "uppercase": "/images/cursive/majuscule/Q.svg",
+        "lowercase": "/images/cursive/minuscule/q.svg"
+      },
+      "imprimerie": {
+        "uppercase": "/images/imprimerie/majuscule/Q.svg",
+        "lowercase": "/images/imprimerie/minuscule/q.svg"
+      }
+    }
+  },
+  {
+    "id": 18,
+    "label": "R",
+    "sound": "/sounds/r.mp3",
+    "images": {
+      "cursive": {
+        "uppercase": "/images/cursive/majuscule/R.svg",
+        "lowercase": "/images/cursive/minuscule/r.svg"
+      },
+      "imprimerie": {
+        "uppercase": "/images/imprimerie/majuscule/R.svg",
+        "lowercase": "/images/imprimerie/minuscule/r.svg"
+      }
+    }
+  },
+  {
+    "id": 19,
+    "label": "S",
+    "sound": "/sounds/s.mp3",
+    "images": {
+      "cursive": {
+        "uppercase": "/images/cursive/majuscule/S.svg",
+        "lowercase": "/images/cursive/minuscule/s.svg"
+      },
+      "imprimerie": {
+        "uppercase": "/images/imprimerie/majuscule/S.svg",
+        "lowercase": "/images/imprimerie/minuscule/s.svg"
+      }
+    }
+  },
+   {
+    "id": 20,
+    "label": "T",
+    "sound": "/sounds/t.mp3",
+    "images": {
+      "cursive": {
+        "uppercase": "/images/cursive/majuscule/T.svg",
+        "lowercase": "/images/cursive/minuscule/t.svg"
+      },
+      "imprimerie": {
+        "uppercase": "/images/imprimerie/majuscule/T.svg",
+        "lowercase": "/images/imprimerie/minuscule/t.svg"
+      }
+    }
+  },
+     {
+    "id": 21,
+    "label": "U",
+    "sound": "/sounds/u.mp3",
+    "images": {
+      "cursive": {
+        "uppercase": "/images/cursive/majuscule/U.svg",
+        "lowercase": "/images/cursive/minuscule/u.svg"
+      },
+      "imprimerie": {
+        "uppercase": "/images/imprimerie/majuscule/U.svg",
+        "lowercase": "/images/imprimerie/minuscule/u.svg"
+      }
+    }
+  },
+   {
+    "id": 22,
+    "label": "V",
+    "sound": "/sounds/v.mp3",
+    "images": {
+      "cursive": {
+        "uppercase": "/images/cursive/majuscule/V.svg",
+        "lowercase": "/images/cursive/minuscule/v.svg"
+      },
+      "imprimerie": {
+        "uppercase": "/images/imprimerie/majuscule/V.svg",
+        "lowercase": "/images/imprimerie/minuscule/v.svg"
+      }
+    }
+  },
+    {
+    "id": 23,
+    "label": "W",
+    "sound": "/sounds/w.mp3",
+    "images": {
+      "cursive": {
+        "uppercase": "/images/cursive/majuscule/W.svg",
+        "lowercase": "/images/cursive/minuscule/w.svg"
+      },
+      "imprimerie": {
+        "uppercase": "/images/imprimerie/majuscule/W.svg",
+        "lowercase": "/images/imprimerie/minuscule/w.svg"
+      }
+    }
+  },
+    {
+    "id": 23,
+    "label": "X",
+    "sound": "/sounds/x.mp3",
+    "images": {
+      "cursive": {
+        "uppercase": "/images/cursive/majuscule/X.svg",
+        "lowercase": "/images/cursive/minuscule/x.svg"
+      },
+      "imprimerie": {
+        "uppercase": "/images/imprimerie/majuscule/X.svg",
+        "lowercase": "/images/imprimerie/minuscule/x.svg"
+      }
+    }
+  },
+   {
+    "id": 24,
+    "label": "Y",
+    "sound": "/sounds/y.mp3",
+    "images": {
+      "cursive": {
+        "uppercase": "/images/cursive/majuscule/Y.svg",
+        "lowercase": "/images/cursive/minuscule/y.svg"
+      },
+      "imprimerie": {
+        "uppercase": "/images/imprimerie/majuscule/Y.svg",
+        "lowercase": "/images/imprimerie/minuscule/y.svg"
+      }
+    }
+  },
+  {
+    "id": 25,
+    "label": "Z",
+    "sound": "/sounds/z.mp3",
+    "images": {
+      "cursive": {
+        "uppercase": "/images/cursive/majuscule/Z.svg",
+        "lowercase": "/images/cursive/minuscule/z.svg"
+      },
+      "imprimerie": {
+        "uppercase": "/images/imprimerie/majuscule/Z.svg",
+        "lowercase": "/images/imprimerie/minuscule/z.svg"
+      }
+    }
+  }
+]
