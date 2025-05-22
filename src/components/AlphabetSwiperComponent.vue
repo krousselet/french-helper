@@ -80,11 +80,14 @@ function playSound(soundPath) {
 .table-container {
   overflow-x: auto;
   max-width: 100%;
+  height: 95dvh;
+  margin: 0 auto;
   padding: 1rem;
 }
 
 table {
   width: 100%;
+  height: 50%;
   border-collapse: collapse;
   text-align: center;
 }
@@ -93,18 +96,22 @@ caption {
   font-size: 1.4em;
   margin-bottom: 10px;
   text-align: left;
+  color: #f30186;
 }
 
 th,
 td {
-  border: 1px solid #ccc;
+  border: 1px solid #ac36775d;
   padding: 8px;
+  height: 18px;
+  background-color: #3A1734;
+  color: #f30186;
   /* max-width: 40px;
   max-height: 40px; */
 }
 
 th {
-  background-color: #f7f7f7;
+  background-color: #2E2453;
 }
 
 .letter-image {
@@ -112,6 +119,7 @@ th {
   max-height: 40px;
   cursor: pointer;
   transition: transform 0.2s;
+  filter: invert(100%);
 }
 
 .letter-image:hover {

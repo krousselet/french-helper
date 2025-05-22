@@ -20,8 +20,8 @@
     "sound": "/sounds/syllables/bu.mp3"
   },
   {
-    "cv": "ca",
-    "sound": "/sounds/syllables/ca.mp3"
+    "cv": "ça",
+    "sound": "/sounds/syllables/ça.mp3"
   },
   {
     "cv": "ce",
@@ -36,8 +36,16 @@
     "sound": "/sounds/syllables/co.mp3"
   },
   {
+    "cv": "con",
+    "sound": "/sounds/syllables/con.mp3"
+  },
+  {
     "cv": "cu",
     "sound": "/sounds/syllables/cu.mp3"
+  },
+  {
+    "cv": "cou",
+    "sound": "/sounds/syllables/cou.mp3"
   },
   {
     "cv": "da",
