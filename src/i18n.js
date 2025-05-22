@@ -9,8 +9,10 @@ const messages = {
     alphabet: "Alphabet",
     expressions: "Expressions",
     // SLOGAN
-    slogan: "Travailler en s'amusant",
+    furansugo: "Furansugo",
+    slogan: "Apprendre en s'amusant",
     // EXPRESSIONS PAGE
+    dataError: "Aucune donnée pour ce thème",
     greetings: "Salutations",
     food: "Nourriture",
     sports: "Sports",
@@ -24,8 +26,10 @@ const messages = {
     alphabet: "アルファベット",
     expressions: "表現",
     // SLOGAN
-    slogan: "",
+    furansugo: "フランスゴ",
+    slogan: "たのしくべんきょうする",
     // EXPRESSIONS PAGE
+    dataError: "このトピックのデータはありません",
     greetings: "ご挨拶",
     food: "食べ物",
     sports: "スポーツ",

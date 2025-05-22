@@ -34,7 +34,7 @@
         </tbody>
       </table>
     </div>
-    <div v-else class="no-data">Aucune donnée pour ce thème.</div>
+    <div v-else class="no-data">{{ $t('dataError') }}</div>
   </div>
 </template>
 

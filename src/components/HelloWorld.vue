@@ -7,25 +7,36 @@
           media="(min-width:1024px)"
           srcset="/images/desktop/eiffel.svg"
         />
-        <img src="eiffel.svg" alt="image de la tour eiffel" style="width: auto" />
+        <img
+          src="eiffel.svg"
+          alt="image de la tour eiffel"
+          style="width: auto"
+        />
       </picture>
     </div>
     <div class="middle-column">
       <div class="title-container">
-        <h1>{{ title }}</h1>
+        <h1>{{ $t("slogan") }}</h1>
       </div>
       <div class="text-container">
-        <p>Ici pour s'amuser</p>
+        <p>{{ $t("slogan") }}</p>
       </div>
     </div>
     <div class="right-column">
       <picture>
-        <source media="(min-width:320px)" srcset="/images/mobile/purple-sky.svg" />
+        <source
+          media="(min-width:320px)"
+          srcset="/images/mobile/purple-sky.svg"
+        />
         <source
           media="(min-width:1024px)"
           srcset="/images/desktop/purple-sky.svg"
         />
-        <img src="/images/desktop/purple-sky.svg" alt="image du ciel violet" style="width: auto" />
+        <img
+          src="/images/desktop/purple-sky.svg"
+          alt="image du ciel violet"
+          style="width: auto"
+        />
       </picture>
     </div>
   </main>
@@ -92,6 +103,7 @@ main {
           height: 250px;
         }
         display: flex;
+        height: 500px;
         justify-content: center;
         align-items: first baseline;
         position: relative;
@@ -108,12 +120,11 @@ main {
           width: 100px;
           animation: move 5s 0.3s infinite;
         }
-        height: 300px;
         h1 {
           @media (min-width: 320px) and (max-width: 550px) {
+            height: 100%;
+          }
           height: 100%;
-        }
-          height: 80%;
           width: 100%;
           padding-top: 100px;
           letter-spacing: 2vw;
@@ -136,13 +147,12 @@ main {
       max-width: 600px;
       max-height: 900px;
 
-      
-       img {
+      img {
         @media (min-width: 2441px) {
           border-radius: 7pc 0 0 0;
           width: 600px;
           height: 900px;
-        border-radius: 0 14px 0 0;
+          border-radius: 0 14px 0 0;
         }
       }
     }

@@ -1,3 +1,8 @@
 [
-  { "french": "Je suis rassasié", "japanese": "お腹いっぱいです" }
+  { "french": "manger", "japanese": "食べる", "japaneseHepburn": "Taberu" },
+  { "french": "boire", "japanese": "飲む", "japaneseHepburn": "Nomu" },
+  { "french": "manger", "japanese": "食べる", "japaneseHepburn": "" },
+  { "french": "manger", "japanese": "食べる", "japaneseHepburn": "" },
+  { "french": "manger", "japanese": "食べる", "japaneseHepburn": "" },
+  { "french": "manger", "japanese": "食べる", "japaneseHepburn": "" }
 ]
