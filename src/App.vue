@@ -1,12 +1,23 @@
 <template>
   <nav>
-    <router-link to="/">Home</router-link>
-    <router-link to="/about">About</router-link>
-    <router-link to="/alphabet">Alphabet</router-link>
-    <router-link to="/expressions">Expressions</router-link>
+    <router-link to="/">{{ $t('home') }}</router-link>
+    <router-link to="/about">{{ $t('about') }}</router-link>
+    <router-link to="/alphabet">{{ $t('alphabet') }}</router-link>
+    <router-link to="/expressions">{{ $t('expressions') }}</router-link>
   </nav>
   <router-view/>
+  <LanguageSwitcherComponent />
 </template>
+
+<script>
+import LanguageSwitcherComponent from "./components/LanguageSwitcherComponent.vue";
+
+export default {
+  components: {
+    LanguageSwitcherComponent,
+  },
+};
+</script>
 
 <style lang="scss">
 

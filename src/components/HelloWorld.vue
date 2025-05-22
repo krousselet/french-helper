@@ -1,7 +1,14 @@
 <template>
   <main>
     <div class="left-column">
-      <img src="/images/desktop/eiffel.svg" alt="image de la tour eiffel" />
+      <picture>
+        <source media="(min-width:320px)" srcset="/images/mobile/eiffel.svg" />
+        <source
+          media="(min-width:1024px)"
+          srcset="/images/desktop/eiffel.svg"
+        />
+        <img src="eiffel.svg" alt="image de la tour eiffel" style="width: auto" />
+      </picture>
     </div>
     <div class="middle-column">
       <div class="title-container">
@@ -12,7 +19,14 @@
       </div>
     </div>
     <div class="right-column">
-      <img src="/images/desktop/purple-sky.svg" alt="image de ciel violet" />
+      <picture>
+        <source media="(min-width:320px)" srcset="/images/mobile/purple-sky.svg" />
+        <source
+          media="(min-width:1024px)"
+          srcset="/images/desktop/purple-sky.svg"
+        />
+        <img src="/images/desktop/purple-sky.svg" alt="image du ciel violet" style="width: auto" />
+      </picture>
     </div>
   </main>
 </template>
@@ -50,7 +64,7 @@ main {
       margin: 0;
       img {
         @media (min-width: 2441px) {
-          border-radius: 7pc 0 0 0;
+          border-radius: 14px 0 0 0;
           width: 600px;
           height: 900px;
         }
@@ -59,15 +73,24 @@ main {
   }
 
   .middle-column {
+    color: white;
     @media (min-width: 2441px) {
       display: grid;
       grid-template-columns: 1fr;
       grid-template-rows: 1fr;
-      background: linear-gradient(#654089, #885DB2,  #bf97e5c4, #E3CAFB, #EFDEFE);
-      color: white;
+      background: linear-gradient(
+        #654089,
+        #885db2,
+        #bf97e5c4,
+        #e3cafb,
+        #efdefe
+      );
       height: 100%;
       width: 100%;
       .title-container {
+        @media (min-width: 320px) and (max-width: 550px) {
+          height: 250px;
+        }
         display: flex;
         justify-content: center;
         align-items: first baseline;
@@ -79,25 +102,29 @@ main {
           left: -33px;
           top: 50%;
           transform: translateY(-23%);
-          font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+          font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS",
+            sans-serif;
           font-size: 2vw;
           width: 100px;
-          animation: move 5s .3s infinite;
+          animation: move 5s 0.3s infinite;
         }
         height: 300px;
         h1 {
+          @media (min-width: 320px) and (max-width: 550px) {
+          height: 100%;
+        }
           height: 80%;
           width: 100%;
           padding-top: 100px;
           letter-spacing: 2vw;
           font-size: 2.5vw;
           color: transparent;
-          transition: .3s ease;
+          transition: 0.3s ease;
 
           &:hover {
             box-shadow: inset 0 0 15px black;
             color: rgba(255, 255, 255, 0.527);
-            transition: box-shadow .3s ease, color .5s ease-in-out;
+            transition: box-shadow 0.3s ease, color 0.5s ease-in-out;
           }
         }
       }
@@ -105,12 +132,18 @@ main {
   }
 
   .right-column {
-     @media (min-width: 2441px) {
+    @media (min-width: 2441px) {
       max-width: 600px;
       max-height: 900px;
 
-      img {
-        border-radius: 0 7pc 0 0;
+      
+       img {
+        @media (min-width: 2441px) {
+          border-radius: 7pc 0 0 0;
+          width: 600px;
+          height: 900px;
+        border-radius: 0 14px 0 0;
+        }
       }
     }
   }

@@ -1,5 +1,13 @@
 [
   { "french": "Bonjour", "japanese": "こんにちは" },
   { "french": "Bonsoir", "japanese": "こんばんは" },
-  { "french": "Bonne nuit", "japanese": "こんばんは" }
+  { "french": "Bonne nuit", "japanese": "こんばんは", "japaneseHepburn": "Oyasumi" },
+  { "french": "A la prochaine", "japanese": "", "japaneseHepburn": ""},
+  { "french": "", "japanese": "", "japaneseHepburn": ""},
+  { "french": "", "japanese": "", "japaneseHepburn": ""},
+  { "french": "", "japanese": "", "japaneseHepburn": ""},
+  { "french": "", "japanese": "", "japaneseHepburn": ""},
+  { "french": "", "japanese": "", "japaneseHepburn": ""},
+  { "french": "", "japanese": "", "japaneseHepburn": ""},
+  { "french": "", "japanese": "", "japaneseHepburn": ""}
 ]

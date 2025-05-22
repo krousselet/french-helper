@@ -15,7 +15,7 @@
     <div class="display" v-else-if="expressions.length">
       <input
         v-model="searchTerm"
-        placeholder="Rechercher une expression"
+        :placeholder=" $t('expressions')"
         class="search-input"
       />
       <table>
