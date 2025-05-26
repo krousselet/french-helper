@@ -1,0 +1,18 @@
+[
+    { "french": "tête", "japanese": "あたま / 頭", "japaneseHepburn": "atama"},
+    { "french": "visage", "japanese": "かお / 顔", "japaneseHepburn": "kao"},
+    { "french": "oreille", "japanese": "みみ / 耳", "japaneseHepburn": "mimi"},
+    { "french": "oeil", "japanese": "め / 目", "japaneseHepburn": "me"},
+    { "french": "bouche", "japanese": "くち / 口", "japaneseHepburn": "kuchi"},
+    { "french": "nez", "japanese": "はな / 鼻", "japaneseHepburn": "hana"},
+    { "french": "lèvres", "japanese": "くちびる / 唇", "japaneseHepburn": "Kuchibiru"},
+    { "french": "dents", "japanese": "は / 歯", "japaneseHepburn": "ha"},
+    { "french": "joues", "japanese": "ほほ / 頬", "japaneseHepburn": "hoho"},
+    { "french": "front", "japanese": "ひたい / 額", "japaneseHepburn": "hitai"},
+    { "french": "menton / mâchoire", "japanese": "あご / 顎", "japaneseHepburn": "ago"},
+    { "french": "sourcil", "japanese": "まゆ / 眉", "japaneseHepburn": "mayu"},
+    { "french": "cheveux", "japanese": "かみ / 髪", "japaneseHepburn": "kami"},
+    { "french": "langue", "japanese": "した / 舌", "japaneseHepburn": "shita"},
+    { "french": "manger", "japanese": "食べる", "japaneseHepburn": "Taberu" },
+    { "french": "boire", "japanese": "飲む", "japaneseHepburn": "Nomu" }
+]

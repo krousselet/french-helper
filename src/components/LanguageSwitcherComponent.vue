@@ -21,7 +21,7 @@ const changeLang = () => {
 select {
   position: fixed;
   left: 15px;
-  top: 35px;
+  top: 130px;
   padding: 5px;
   border-radius: 5px;
   background: white;

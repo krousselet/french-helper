@@ -1,15 +1,15 @@
 <template>
+  <nav class="theme-nav">
+    <button
+      v-for="theme in themes"
+      :key="theme"
+      @click="selectTheme(theme)"
+      :class="{ active: currentTheme === theme }"
+    >
+      {{ theme }}
+    </button>
+  </nav>
   <div class="expression-browser">
-    <nav class="theme-nav">
-      <button
-        v-for="theme in themes"
-        :key="theme"
-        @click="selectTheme(theme)"
-        :class="{ active: currentTheme === theme }"
-      >
-        {{ theme }}
-      </button>
-    </nav>
 
     <div v-if="loading" class="loading">Chargement...</div>
     <div class="display" v-else-if="expressions.length">
@@ -41,8 +41,8 @@
 <script setup>
 import { ref, computed } from "vue";
 
-// Step 1: Themes
-const themes = ["salutations", "nourriture", "sports", "arts"];
+// Step 1: Themes (sorted alphabetically)
+const themes = ["salutations", "nourriture", "sports", "arts", "aviation", "corps"].sort();
 
 const currentTheme = ref("");
 const expressions = ref([]);
@@ -55,7 +55,9 @@ const selectTheme = async (theme) => {
   loading.value = true;
   try {
     const data = await import(`@/assets/themes/${theme}.json`);
-    expressions.value = data.default;
+    expressions.value = data.default.sort((a, b) =>
+      a.french.localeCompare(b.french, 'fr')
+    );
   } catch (error) {
     console.error(`Erreur de chargement pour ${theme}:`, error);
     expressions.value = [];
@@ -80,7 +82,7 @@ const filteredExpressions = computed(() => {
 });
 </script>
 
-<style scoped>
+<style scoped lang="scss">
 .french {
   color: green;
 }
@@ -92,36 +94,24 @@ const filteredExpressions = computed(() => {
 .japanese-hepburn {
   color: red;
 }
-.expression-browser {
-  @media (min-width: 551px) {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    grid-template-rows: 1fr;
-  }
-  max-width: 900px;
-  margin: auto;
-  padding: 2rem;
-  font-family: sans-serif;
-}
 
 .theme-nav {
+   top: 160px;
   position: fixed;
   display: flex;
-  flex-direction: column;
-  gap: 1rem;
-  margin-bottom: 1rem;
-  left: 0;
+  gap: 10px;
+}
+.expression-browser {
+  font-size: 1.5rem;
+  position: relative;
+  top: 190px;
+  width: 100%;
+  margin: 0 10px;
+  .display {
+    width: 98%;
+  }
 }
 
-.display {
-    @media (min-width: 320px) and (max-width: 550px) {
-        margin-top: 250px;
-    }
-    @media (min-width: 551px) {
-    width: 100%;
-    margin: auto 0 auto 25%;
-    }
-}
 
 .theme-nav button {
   padding: 0.5rem 1rem;
@@ -137,7 +127,8 @@ const filteredExpressions = computed(() => {
 }
 
 .search-input {
-  width: 100%;
+  width: 80%;
+  max-width: 33vw;
   padding: 0.6rem;
   margin-bottom: 1rem;
   border: 1px solid #ccc;

@@ -1,3 +1,13 @@
 [
-  { "french": "vert", "japanese": "緑", "japaneseHepburn":"Midori" }
+  { "french": "Vert", "japanese": "緑", "japaneseHepburn":"Midori" },
+  { "french": "Rouge", "japanese": "あか", "japaneseHepburn":"Aka" },
+  { "french": "Bleu", "japanese": "あお", "japaneseHepburn":"Ao" },
+  { "french": "Jaune", "japanese": "きいろ", "japaneseHepburn":"Kiiro" },
+  { "french": "Violet", "japanese": "むらさき", "japaneseHepburn":"Murasaki" },
+  { "french": "Noir", "japanese": "くろ", "japaneseHepburn":"Kuro" },
+  { "french": "Blanc", "japanese": "しろ", "japaneseHepburn":"Shiro" },
+  { "french": "Gris", "japanese": "はいいろ", "japaneseHepburn":"Haiiro" },
+  { "french": "Rose", "japanese": "ピンク", "japaneseHepburn":"Pinku" },
+  { "french": "Orange", "japanese": "オレンジ", "japaneseHepburn":"Orenji" },
+  { "french": "Brun", "japanese": "ちゃいろ", "japaneseHepburn":"Chairo" }
 ]

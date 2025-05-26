@@ -53,12 +53,14 @@ body {
 nav {
   padding: 30px;
   display: flex;
+  flex-wrap: wrap;
   justify-content: space-around;
   align-items: center;
 
   a {
     font-weight: bold;
     color: #2c3e50;
+    margin: 15px auto;
 
     &.router-link-exact-active {
       color: #AC3677;
