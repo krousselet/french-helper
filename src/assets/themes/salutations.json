@@ -5,10 +5,15 @@
   { "french": "Bonne nuit", "japanese": "おやすみ", "japaneseHepburn": "Oyasumi" },
   { "french": "A la prochaine (fois)", "japanese": "次回会いましょう", "japaneseHepburn": "Jikai aimashō"},
   { "french": "Enchanté", "japanese": "はじめまして", "japaneseHepburn": "Hajimemashite"},
-  { "french": "", "japanese": "", "japaneseHepburn": ""},
-  { "french": "", "japanese": "", "japaneseHepburn": ""},
-  { "french": "", "japanese": "", "japaneseHepburn": ""},
-  { "french": "", "japanese": "", "japaneseHepburn": ""},
-  { "french": "", "japanese": "", "japaneseHepburn": ""},
-  { "french": "", "japanese": "", "japaneseHepburn": ""}
+  {
+  "french": "Saluer",
+  "japanese": "挨拶する",
+  "japaneseHepburn": "Aisatsu suru",
+  "conjugaison": {
+    "present": ["Je salue", "Tu salus", "Il/Elle salue", "Nous saluons", "Vous saluez", "Ils saluent"],
+    "composedPast": ["J'ai salué", "Tu as salué", "Il/Elle/On a salué", "Nous avons salué", "Vous avez salué", "Ils/Elles ont salué"],
+    "pastSimple": ["Je saluai", "Tu saluas", "Il/Elle salua", "Nous saluâmes", "Vous saluâtes", "Il/Elle saluèrent"],
+    "futur": ["Je saluerai", "Tu salueras", "Il/Elle saluera", "Nous saluerons", "Vous saluerez", "Ils/Elles salueront"]
+  }
+}
 ]

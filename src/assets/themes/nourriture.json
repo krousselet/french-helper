@@ -1,8 +1,19 @@
 [
-  { "french": "manger", "japanese": "食べる", "japaneseHepburn": "Taberu" },
-  { "french": "boire", "japanese": "飲む", "japaneseHepburn": "Nomu" },
-  { "french": "manger", "japanese": "食べる", "japaneseHepburn": "" },
-  { "french": "manger", "japanese": "食べる", "japaneseHepburn": "" },
-  { "french": "manger", "japanese": "食べる", "japaneseHepburn": "" },
-  { "french": "manger", "japanese": "食べる", "japaneseHepburn": "" }
+  { "french": "manger", "japanese": "食べる", "japaneseHepburn": "Taberu",
+  "conjugaison": {
+    "present": ["Je mange", "Tu manges", "Il/Elle mange", "Nous mangeons", "Vous mangez", "Ils mangent"],
+    "composedPast": ["J'ai mangé", "Tu as mangé", "Il/Elle/On a mangé", "Nous avons mangé", "Vous avez mangé", "Ils/Elles ont mangé"],
+    "pastSimple": ["Je mangeai", "Tu mangeas", "Il/Elle mangea", "Nous mangeâmes", "Vous mangeâtes", "Il/Elle mangèrent"],
+    "futur": ["Je mangerai", "Tu mangeras", "Il/Elle mangera", "Nous mangerons", "Vous mangerez", "Ils/Elles mangeront"]
+  }
+},
+{ "french": "boire", "japanese": "飲む", "japaneseHepburn": "Nomu",
+  "conjugaison": {
+    "present": ["Je bois", "Tu bois", "Il/Elle boit", "Nous buvons", "Vous buvez", "Ils boivent"],
+    "composedPast": ["J'ai bu", "Tu as bu", "Il/Elle/On a bu", "Nous avons bu", "Vous avez bu", "Ils/Elles ont bu"],
+    "pastSimple": ["Je bus", "Tu bus", "Il/Elle but", "Nous bûmes", "Vous bûtes", "Ils/Elles burent"],
+    "futur": ["Je boirai", "Tu boiras", "Il/Elle boira", "Nous boirons", "Vous boirez", "Ils/Elles boiront"]
+  }
+},
+{ "french": "viande", "japanese": "にく / 肉", "japaneseHepburn": "niku" }
 ]
